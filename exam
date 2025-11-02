@@ -1,0 +1,3 @@
+git add <levanis_exam>
+git commit -m "add new file"
+git push origin main
